@@ -1,0 +1,25 @@
+.head {
+    height: 100px;
+    width: auto;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 2px solid rgb(154, 145, 131);
+    position: relative;
+    top: 0;
+
+}
+
+.logout_btn{
+    border-radius:11%;
+    padding: 10px;
+    width: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.logo img{
+    height: 100px;
+    width: 100px;
+}

@@ -1,0 +1,47 @@
+input, select, textarea{
+    display: block;
+    align-items: center;
+}
+
+.form {
+    display: flex;
+    height: auto;
+    width: 85%;
+    max-width: 85%;
+    align-content: center;
+    justify-content: center;
+    margin: 1rem;
+}
+
+
+#myForm{
+    max-width: 89%;
+    height: auto;
+}
+
+.prod_form{
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    width: 22rem;
+    justify-content: center;
+    padding: 3rem;
+    background-color: rgb(219, 230, 247);
+    border-radius: 5%;
+}
+
+input, select{
+    height: 1%;
+    margin: 0.5%;
+}
+
+textarea{
+    height: auto;
+    width: 200px;
+}
+
+button{
+    height: 1rem;
+    width: 7rem;
+    align-self: center;
+}

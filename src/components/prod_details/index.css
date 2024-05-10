@@ -1,0 +1,25 @@
+.desc{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid rgb(225, 188, 188);
+    height: 75%;
+    min-width: 50%;
+    width: auto;
+    margin: 2rem;
+}
+
+.desc:hover{
+    box-shadow: 1px 1px 5px;box-shadow: 1px 1px 5px;
+}
+
+.backbtn{
+    width: 20px;
+    height: 20px;
+}
+
+.prod_info{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}

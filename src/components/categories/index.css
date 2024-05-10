@@ -1,0 +1,12 @@
+.sport_cat{
+    display: flex;
+    flex-direction: row;
+}
+
+.category{
+    margin: 1rem 2rem;
+}
+
+.category:hover{
+    cursor: pointer;
+}
